@@ -38,6 +38,9 @@ python qr_generator.py
 ## 📜 License
 This project is licensed under the **MIT License**.
 
+![image](https://github.com/user-attachments/assets/4e74edee-d4da-420a-9f2b-d61a540de2d1)
+
+
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements!
 
